@@ -1,7 +1,6 @@
-import 'package:auto_gen/const/colors/colors.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_svg/flutter_svg.dart';
+
+
+import '../../../../../const/imports.dart';
 
 class VerticalItem extends StatelessWidget {
   const VerticalItem({super.key, required this.icon, required this.text});

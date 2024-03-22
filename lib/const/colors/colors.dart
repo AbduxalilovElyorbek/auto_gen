@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import '../imports.dart';
 
 Color red = const Color(0xffC93333);
 Color dark = const Color(0xff000000);

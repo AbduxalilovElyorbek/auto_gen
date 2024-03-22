@@ -1,7 +1,4 @@
-import 'package:auto_gen/const/colors/colors.dart';
-import 'package:auto_gen/const/images/images.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+import '../../../../../const/imports.dart';
 
 class ClientsItem extends StatelessWidget {
   const ClientsItem({super.key});

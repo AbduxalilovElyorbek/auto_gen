@@ -1,7 +1,6 @@
-import 'package:auto_gen/app/ui/pages/appointment/appointment_info.dart';
-import 'package:auto_gen/app/ui/pages/appointment/widgets/item.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+
+import '../../../../../const/imports.dart';
 
 class AppointmentItems extends StatefulWidget {
   const AppointmentItems({super.key});

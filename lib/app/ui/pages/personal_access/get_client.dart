@@ -1,12 +1,6 @@
-import 'package:auto_gen/app/ui/pages/personal_access/weekly_orders.dart';
-import 'package:auto_gen/app/ui/pages/personal_access/widgets/vertical_item.dart';
-import 'package:auto_gen/const/colors/colors.dart';
-import 'package:auto_gen/const/icons/icon.dart';
-import 'package:auto_gen/const/images/images.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:morphable_shape/morphable_shape.dart';
+
+
+import '../../../../const/imports.dart';
 
 class GetClient extends StatelessWidget {
   const GetClient({super.key});

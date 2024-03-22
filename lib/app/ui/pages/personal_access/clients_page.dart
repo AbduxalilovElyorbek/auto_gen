@@ -1,9 +1,4 @@
-import 'package:auto_gen/app/ui/pages/personal_access/parts/clients_list.dart';
-import 'package:auto_gen/const/colors/colors.dart';
-import 'package:auto_gen/const/icons/icon.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_svg/flutter_svg.dart';
+import '../../../../const/imports.dart';
 
 class ClientsPage extends StatelessWidget {
   const ClientsPage({super.key});

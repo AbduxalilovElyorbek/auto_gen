@@ -1,10 +1,6 @@
-import 'package:auto_gen/app/ui/pages/personal_access/personal_access_page.dart';
-import 'package:auto_gen/const/colors/colors.dart';
-import 'package:auto_gen/const/icons/icon.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:pinput/pinput.dart';
+
+
+import '../../../../const/imports.dart';
 
 class AccessVerify extends StatefulWidget {
   const AccessVerify({super.key, required this.number});

@@ -1,8 +1,5 @@
-import 'package:auto_gen/const/colors/colors.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+import '../../../const/imports.dart';
 
-// ignore: must_be_immutable
 class ButtonWidget extends StatelessWidget {
   ButtonWidget({
     super.key,

@@ -1,15 +1,5 @@
-import 'package:auto_gen/app/ui/pages/appointment/parts/list_items.dart';
-import 'package:auto_gen/app/ui/pages/appointment/personal_info.dart';
-import 'package:auto_gen/const/colors/colors.dart';
-import 'package:auto_gen/const/icons/icon.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:flutter_timeline_calendar/timeline/model/calendar_options.dart';
-import 'package:flutter_timeline_calendar/timeline/model/day_options.dart';
-import 'package:flutter_timeline_calendar/timeline/model/headers_options.dart';
-import 'package:flutter_timeline_calendar/timeline/utils/calendar_types.dart';
-import 'package:flutter_timeline_calendar/timeline/widget/timeline_calendar.dart';
+
+import '../../../../const/imports.dart';
 
 class AppointmentPage extends StatefulWidget {
   const AppointmentPage({super.key});

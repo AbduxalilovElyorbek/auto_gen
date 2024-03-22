@@ -1,6 +1,7 @@
-import 'package:auto_gen/app/ui/pages/appointment/widgets/personal_info_item.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+
+
+import '../../../../../const/imports.dart';
 
 class PersonalInfoList extends StatelessWidget {
   const PersonalInfoList({super.key});

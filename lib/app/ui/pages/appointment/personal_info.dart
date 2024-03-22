@@ -1,14 +1,4 @@
-import 'package:auto_gen/app/ui/pages/appointment/parts/personal_info_list.dart';
-import 'package:auto_gen/const/colors/colors.dart';
-import 'package:auto_gen/const/icons/icon.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_svg/svg.dart';
-import 'package:flutter_timeline_calendar/timeline/model/calendar_options.dart';
-import 'package:flutter_timeline_calendar/timeline/model/day_options.dart';
-import 'package:flutter_timeline_calendar/timeline/model/headers_options.dart';
-import 'package:flutter_timeline_calendar/timeline/utils/calendar_types.dart';
-import 'package:flutter_timeline_calendar/timeline/widget/timeline_calendar.dart';
+import '../../../../const/imports.dart';
 
 class PersonalInfo extends StatelessWidget {
   const PersonalInfo({super.key});
@@ -101,6 +91,12 @@ class PersonalInfo extends StatelessWidget {
                   fontWeight: FontWeight.w700,
                   color: white,
                 ),
+              ),
+            ),
+            Center(
+              child: Image.asset(
+                AppImages.chartImage,
+                fit: BoxFit.cover,
               ),
             ),
             SizedBox(

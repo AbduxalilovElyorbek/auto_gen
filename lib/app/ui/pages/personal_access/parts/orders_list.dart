@@ -1,7 +1,4 @@
-import 'package:auto_gen/app/ui/pages/appointment/appointment_page.dart';
-import 'package:auto_gen/app/ui/pages/personal_access/widgets/order_item.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+import '../../../../../const/imports.dart';
 
 class OrdersList extends StatelessWidget {
   const OrdersList({super.key});

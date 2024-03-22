@@ -1,12 +1,4 @@
-import 'package:auto_gen/app/ui/pages/access/access_verify.dart';
-import 'package:auto_gen/app/ui/pages/personal_access/personal_access_page.dart';
-import 'package:auto_gen/app/ui/widgets/button.dart';
-import 'package:auto_gen/app/ui/pages/access/widgets/text_field.dart';
-import 'package:auto_gen/const/icons/icon.dart';
-import 'package:auto_gen/const/images/images.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_svg/flutter_svg.dart';
+import '../../../../const/imports.dart';
 
 class AccessPage extends StatefulWidget {
   const AccessPage({super.key});
